@@ -220,6 +220,9 @@
           <targetClasses>
             <param>com.google.common.truth*</param>
           </targetClasses>
+          <excludedClasses>
+            <param>*AutoValue_Expect_ExpectationFailure</param>
+          </excludedClasses>
         </configuration>
       </plugin>
     </plugins>
