@@ -1,3 +1,5 @@
+# Used for pitest vJUG [youtube presentation](https://youtu.be/nf2xpqcZouY)
+
 Truth
 =====
 ***We've made failure a strategy***
